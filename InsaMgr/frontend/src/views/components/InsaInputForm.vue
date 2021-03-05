@@ -85,19 +85,19 @@
                                             </md-field>
                                         </div>
                                         <div class="md-layout md-layout-item md-size-25 md-xsmall-size-100 md-small-size-30 md-medium-size-25">
-                                            <div class="md-layout-item md-size-45 md-xsmall-size-100 md-small-size-30 md-medium-size-25">
+                                            <div class="md-layout-item md-size-45 md-xsmall-size-40 md-small-size-30 md-medium-size-25">
                                                 <md-field>
                                                 <label>주민번호</label>
                                                 <md-input v-model="floatingLabel" type="text" required></md-input>
                                                 </md-field>
                                             </div>
-                                            <div class="md-layout-item md-size-15 md-xsmall-size-100 md-small-size-30 md-medium-size-25">
+                                            <div class="md-layout-item md-size-15 md-xsmall-size-20 md-small-size-30 md-medium-size-25">
                                                 <md-field>
                                                 <label></label>
                                                 <md-input v-model="floatingLabel" type="text" required></md-input>
                                                 </md-field>
                                             </div>
-                                            <div class="md-layout-item md-size-40 md-xsmall-size-100 md-small-size-30 md-medium-size-25">
+                                            <div class="md-layout-item md-size-40 md-xsmall-size-40 md-small-size-30 md-medium-size-25">
                                                 <md-field>
                                                 <label></label>
                                                 <md-input v-model="floatingLabel" type="text" required></md-input>
